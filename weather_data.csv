@@ -1,0 +1,3 @@
+date,temp_min,temp_max,precipitation,humidity,wind_speed,weather_description
+2023-01-01,12,25,0.0,65,10,clear
+2023-01-02,14,28,0.2,70,12,rain
